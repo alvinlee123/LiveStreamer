@@ -1,4 +1,4 @@
-This is a set of scripts for streaming live content. 
+This is a set of scripts for streaming live content for linux. 
 
 Requirements to run.
 
