@@ -1,2 +1,2 @@
 #!/bin/bash      
-livestreamer --player-passthrough hls http://www.twitch.tv/d2l best
+optirun livestreamer --player-passthrough hls http://www.twitch.tv/d2l best

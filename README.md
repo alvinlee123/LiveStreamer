@@ -6,7 +6,7 @@ Livestreamer
 VLC
 
 Livestreamer docs:
-https://github.com/chrippa/livestreamer
+https://github.com/chrippa/optirun livestreamer
 
 VLC:
 

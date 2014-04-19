@@ -1,3 +1,3 @@
 #!/bin/bash      
-livestreamer --player-passthrough hls http://tv.majorleaguegaming.com/show/dotacinema best
+optirun livestreamer --player-passthrough hls http://tv.majorleaguegaming.com/show/dotacinema best
 
